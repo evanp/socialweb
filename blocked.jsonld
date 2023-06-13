@@ -1,6 +1,6 @@
 {
   "@context": {
-    "bl": "https://purl.archive.org/purl/socialweb/blocked#",
+    "bl": "https://purl.archive.org/socialweb/blocked#",
     "blocked": {
       "@id": "bl:blocked",
       "@type": "@id"
