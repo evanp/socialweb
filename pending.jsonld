@@ -1,0 +1,13 @@
+{
+    "@context": {
+      "pdg": "https://purl.archive.org/socialweb/pending#",
+      "pendingFollowers": {
+        "@id": "pdg:pendingFollowers",
+        "@type": "@id"
+      },
+      "pendingFollowing": {
+        "@id": "pdg:pendingFollowing",
+        "@type": "@id"
+      }
+    }
+  }
