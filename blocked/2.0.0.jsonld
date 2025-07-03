@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "bl": "https://purl.archive.org/socialweb/blocked#",
+    "blocked": {
+      "@id": "bl:blocked",
+      "@type": "@id"
+    },
+    "blocks": {
+      "@id": "bl:blocks",
+      "@type": "@id"
+    },
+    "blockedOf": {
+      "@id": "bl:blockedOf",
+      "@type": "@id"
+    },
+    "blocksOf": {
+      "@id": "bl:blocksOf",
+      "@type": "@id"
+    }
+  }
+}

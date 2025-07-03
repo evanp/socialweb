@@ -1,0 +1,9 @@
+{
+  "@context": {
+    "blks": "https://purl.archive.org/socialweb/blocks#",
+    "blocks": {
+      "@id": "blks:blocks",
+      "@type": "@id"
+    }
+  }
+}

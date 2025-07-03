@@ -1,9 +1,1 @@
-{
-  "@context": {
-    "bl": "https://purl.archive.org/socialweb/blocked#",
-    "blocked": {
-      "@id": "bl:blocked",
-      "@type": "@id"
-    }
-  }
-}
+blocked/2.0.0.jsonld
