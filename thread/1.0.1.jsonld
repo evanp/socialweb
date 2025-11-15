@@ -1,0 +1,13 @@
+{
+  "@context": {
+    "thr": "https://purl.archive.org/socialweb/thread#",
+    "thread": {
+      "@id": "thr:thread",
+      "@type": "@id"
+    },
+    "root": {
+      "@id": "thr:root",
+      "@type": "@id"
+    }
+  }
+}
