@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "oauth": "https://purl.archive.org/socialweb/oauth#",
+    "redirectURI": {
+      "@id": "oauth:redirectURI",
+      "@type": "@id"
+    },
+    "universalClientID": {
+      "@id": "oauth:universalClientID",
+      "@type": "xsd:boolean"
+    },
+    "objectIDasClientID": {
+      "@id": "oauth:objectIDasClientID",
+      "@type": "xsd:boolean"
+    }
+  }
+}
