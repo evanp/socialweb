@@ -3,7 +3,7 @@
     "oauth": "https://purl.archive.org/socialweb/oauth#",
     "redirectURI": {
       "@id": "oauth:redirectURI",
-      "@type": "@id"
+      "@type": "xsd:anyURI"
     },
     "objectIDasClientID": {
       "@id": "oauth:objectIDasClientID",
