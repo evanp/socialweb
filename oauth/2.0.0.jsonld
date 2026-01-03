@@ -5,8 +5,8 @@
       "@id": "oauth:redirectURI",
       "@type": "xsd:anyURI"
     },
-    "objectIDasClientID": {
-      "@id": "oauth:objectIDasClientID",
+    "objectIDAsClientID": {
+      "@id": "oauth:objectIDAsClientID",
       "@type": "xsd:boolean"
     }
   }
